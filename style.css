@@ -14,7 +14,8 @@ body{
     background-color: #84E1AD;
     padding: 5px;
     font-size: 1em;
-   
+    margin-top: -30px;
+    margin-left: -5px;
 }
 
 
@@ -33,6 +34,7 @@ p{
 header{
     background-image: linear-gradient(to bottom, #3BD580, #1A5B37);
     margin: auto;
+    margin-right: -13px;
     text-align: center;
  }
 
@@ -65,7 +67,7 @@ nav{
     padding-right: 5px;
     padding-left: 3px;
     padding-bottom: 3px;
-    margin-left: -13px;
+    margin: auto;
     margin-right: -13px;
 }
     
@@ -91,10 +93,10 @@ main{
     background-color: white;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    box-shadow: 4px 4px 5px 0px rgb(119, 156, 150);
+    box-shadow: 4px 4px 5px 0px rgba(119, 156, 150, 0.719);
     padding:20px;
     margin:auto;
-    max-width:647px ;
+    max-width:700px ;
     min-width:400px ;
 }
 
@@ -191,6 +193,9 @@ aside h1{
     text-shadow: 1px darkgray;
 }
 
+abbr{
+    text-decoration: none;
+}
 aside > h1, section{
     box-shadow: 4px 4px 5px 0px rgb(119, 156, 150);
 }
@@ -231,24 +236,13 @@ footer{
     color: white;
     background-color: #1A5B37;
     margin-top: 12px;
-    margin-left: -13px;
     margin-right: -13px;
     margin-bottom: -13px;
     padding: 2px;
 }
 
-abbr{
-    text-decoration: none;
-}
 
 footer p{
     text-align: center;
     line-height: normal;
-    
-}
-
-footer a:hover{
-    color: #04f771b6;
-    text-decoration: underline;
-    border-radius: 2px;
 }
