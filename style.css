@@ -55,15 +55,6 @@ p.intro{
     margin: auto;
 }
 
-p.intro1{
-    color:rgb(240, 235, 235) ;
-    padding-bottom: 20px;
-    text-align: center;
-    text-shadow:1px 0px 1px darkslategray ;
-    max-width: 500px;
-    margin: auto;
-}
-
 nav{
     font-family: 'Times New Roman', Times, serif;
     background-color: #1A5B37;
