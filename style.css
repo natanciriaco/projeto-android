@@ -98,8 +98,8 @@ main{
     box-shadow: 4px 4px 5px 0px rgba(119, 156, 150, 0.719);
     padding:20px;
     margin:auto;
-    max-width:700px ;
-    min-width:400px ;
+    max-width:500px ;
+    min-width:406px ;
 }
 
 h1,h2,h3{
