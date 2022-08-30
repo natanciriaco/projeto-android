@@ -95,10 +95,10 @@ main{
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     box-shadow: 4px 4px 5px 0px rgba(119, 156, 150, 0.719);
-    padding:20px;
+    padding:30px;
     margin:auto;
-    max-width:700px ;
-    min-width:406px ;
+    max-width:800px ;
+    min-width:450px ;
     margin-bottom: 15px;
 }
 
@@ -173,8 +173,8 @@ div#video{
     border-left:40px solid #1A5B37;
     border-right: 40px solid #1A5B37;
     margin: auto;
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: -30px;
+    margin-right: -30px;
 }
 
 iframe{
@@ -188,7 +188,7 @@ aside{
 
 aside h1{
     font-family: 'Bebas Neue', cursive;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: normal;
     color:white;
     background-color: #30b16a;
@@ -200,7 +200,7 @@ aside h1{
 }
 
 abbr{
-    text-decoration: none;
+    text-decoration: underline;
 }
 aside > h1, section{
     box-shadow: 4px 4px 5px 0px rgb(119, 156, 150);
@@ -209,6 +209,7 @@ aside > h1, section{
 section{
     background-color: #C5EBD6;
     border-radius: 0px 0px 3px 3px;
+    padding-top: 5px;
     margin: auto;
 }
 
