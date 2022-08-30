@@ -12,7 +12,6 @@
 
 body{
     background-color: #84E1AD;
-    margin: auto;
     padding: 5px;
     font-size: 1em;
    
@@ -23,9 +22,9 @@ body{
 
 header{
     background-image: linear-gradient(to bottom, #3BD580, #1A5B37);
-    margin-top: -26px;
-    margin-left: -5px;
-    margin-right: -5px;
+    margin-top: -34px;
+    margin-left: -13px;
+    margin-right: -13px;
     text-align: center;
  
 }
@@ -54,6 +53,13 @@ p.intro{
     color: rgb(240, 235, 235);
     text-align: center;
     text-shadow: 1px 0px 1px darkslategray;
+}
+
+p.intro1{
+    color:rgb(240, 235, 235) ;
+    padding-bottom: 20px;
+    text-align: center;
+    text-shadow:1px 0px 1px darkslategray ;
 }
 
 nav{
@@ -230,9 +236,9 @@ footer{
     color: white;
     background-color: #1A5B37;
     margin-top: 12px;
-    margin-left: -10px;
-    margin-right: -5px;
-    margin-bottom: -5px;
+    margin-left: -13px;
+    margin-right: -13px;
+    margin-bottom: -13px;
     padding: 2px;
     text-align: center;
 }
